@@ -15,4 +15,4 @@ Biggest watch marketplace is chrono24, checkout how they do it ![](images/chrono
 Now checkout what I have proposed in my prototype ![](images/my%20app%20screenshot.png)
 
 
-Checkout my prototype walkthrough in this YouTube video ![](https://www.youtube.com/watch?v=TsOU75pqEHo)
+Checkout my prototype walkthrough in this [YouTube video](https://www.youtube.com/watch?v=TsOU75pqEHo)
