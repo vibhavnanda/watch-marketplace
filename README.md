@@ -1,4 +1,4 @@
-# Watch Marketplace
+# Watch Marketplace App
 
 The preowned/secondary market for luxury watches is important to the survival of the primary luxury watch market because the secondary market provides accessibility and availability that the primary market is not able to provide. Luxury watches fall in 2 different categories and the secondary market plays a role in both situations:
 
