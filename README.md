@@ -10,4 +10,9 @@ In either case there needs to be a level of trust in the secondary market dealer
 
 I recognized this design + functionality gap in all current secondary watch marketplaces and decided to create a prototype app that would address this issue. 
 
+Biggest watch marketplace is chrono24, checkout how they do it ![](images/chrono24%20screenshot.png)
+
+Now checkout what I have proposed in my prototype ![](images/my%20app%20screenshot.png)
+
+
 [YouTube Link](https://www.youtube.com/watch?v=TsOU75pqEHo)
