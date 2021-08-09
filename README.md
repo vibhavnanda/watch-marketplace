@@ -4,7 +4,7 @@ The preowned/secondary market for luxury watches is important to the survival of
 
 1. Watches that are highly desirable and retain their value; in this case, authorized dealers don't always have the watches available to provide to their customers. The secondary market addresses this issue by providing availability of these watches (often times at a premium). 
 
-2. Watches that are not highly desirable and lose their value right after purchase; in this case, authorized dealers have the inventory, but rarely provide discounts. The secondary market addresses this issue by providing the same watches at a greater discount than the authorized dealers do (accessbility). 
+2. Watches that are not highly desirable and lose their value right after purchase; in this case, authorized dealers have the inventory, but rarely provide discounts. The secondary market addresses this issue by providing the same watches at a greater discount than the authorized dealers do (accessibility). 
 
 In either case there needs to be a level of trust in the secondary market dealer. Trust is often best developed by crowdsourced customer feedback (like Google reviews); however, currently there is no secondary watch marketplace that prioritized customer feedback in their design. 
 
