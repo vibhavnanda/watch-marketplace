@@ -6,7 +6,7 @@ The preowned/secondary market for luxury watches is important to the survival of
 
 2. Watches that are not highly desirable and lose their value right after purchase; in this case, authorized dealers have the inventory, but rarely provide discounts. The secondary market addresses this issue by providing the same watches at a greater discount than the authorized dealers do (accessbility). 
 
-In either case there needs to be a level of trust in the seconary market dealer. Trust is often best developed by crowdsourced customer feedback (like Google reviews); however, currently there is no seconary watch marketplace that prioritized customer feedback in their design. 
+In either case there needs to be a level of trust in the secondary market dealer. Trust is often best developed by crowdsourced customer feedback (like Google reviews); however, currently there is no secondary watch marketplace that prioritized customer feedback in their design. 
 
 I recognized this design + functionality gap in all current secondary watch marketplaces and decided to create a prototype app that would address this issue. 
 
