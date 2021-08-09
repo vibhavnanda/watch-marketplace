@@ -10,3 +10,4 @@ In either case there needs to be a level of trust in the secondary market dealer
 
 I recognized this design + functionality gap in all current secondary watch marketplaces and decided to create a prototype app that would address this issue. 
 
+[YouTube Link](https://www.youtube.com/watch?v=TsOU75pqEHo)
